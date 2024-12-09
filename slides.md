@@ -6,7 +6,19 @@ Alan Gardner
 
 ## Straw poll
 
+Why did we come here tonight?
 
+<br>
+
+<img src="./assets/images/pie_chart_1.svg" class="fragment fade-in" />
+
+---
+
+## Straw poll
+
+Let's try that again 😅
+
+<img src="./assets/images/pie_chart_2.svg" class="fragment fade-in" />
 
 ---
 
@@ -23,6 +35,56 @@ Alan Gardner
 ---
 
 ## AI is just a tool
+
+---
+
+## Some tools - general
+
+<ul>
+    <li class="fragment fade-up">
+        <a href="https://claude.ai">Claude</a>
+    </li>
+    <li class="fragment fade-up">
+        <a href="">Perplexity</a>
+    </li>
+</ul>
+
+---
+
+## Some tools - image generation
+
+There's a ton but I've been using NightCafe...
+
+<br>
+
+> A cinematic image of a room full of Python engineers eagerly ripping into a huge pile of chocolate. They're having fun, are wearing their Christmas jumpers, and some are letting off party poppers. In the background, one solitary figure is trying to give a talk that no one is listening to.
+
+---
+
+## Some tools - image generation
+
+[![cursed christmas](./assets/images/apug_christmas.webp)](https://creator.nightcafe.studio/studio?open=creation&panelContext=(jobId:frSyRLfxkGiHkolk2kvV))
+
+---
+
+## Some tools - image generation
+
+It's not the most cursed image I've seen... 😬
+
+<img src="./assets/images/cursed_alan.png" class="fragment fade-up" />
+
+---
+
+## Some tools - coding
+
+<ul>
+    <li class="fragment fade-up">
+        <a href="">Replit</a>
+    </li>
+    <li class="fragment fade-up">
+        <a href="">Cursor</a>
+    </li>
+</ul>
 
 ---
 

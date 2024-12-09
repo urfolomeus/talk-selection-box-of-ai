@@ -81,6 +81,14 @@
   p:has(>img:only-child) {
     text-align: center;
   }
+
+  a {
+    color: var(--blue);
+
+    &:visited {
+      color: var(--lavender);
+    }
+  }
 }
 
 .theme-toggle {
