@@ -1,20 +1,23 @@
-# Reveal JS Catppuccin Template
+# A Selection Box of AI Tools
 
-This is a template project for [reveal.js]() that uses [Catppuccin]() for the slide theme. It also uses [Panda Syntax]() and [Dank Mono]() for code highlighting.
+This is a talk that I first presented at the Aberdeen Python User Group meetup in December 2024.
 
-## How to use
+## Blurb
 
-1. Download the zip file for this repo.
-2. Use a web server to serve the index.html page. Python's built in `http.server` is ideal for this.
+> It's that time of year when we eagerly anticipate selection boxes appearing on supermarket shelves and under Christmas trees across the land. But what if, instead of delicious chocolates, those thin plastic trays were filled with productivity-enhancing AI tools? Well, that would be disappointing, of course. Who in their right mind prefers software tools over chocolate? However, I'm told we're not here to eat chocolate; we should really be doing stuff with Python, and so...
+>
+> In this talk, we'll explore a selection of AI tools that have significantly impacted Alan's work. We'll examine various chatbots, LLMs, integrations with existing apps, and fully AI-based applications. We'll discuss how these tools harness AI to boost productivity, creativity, and problem-solving. He will share personal experiences, demonstrate how he works with these tools, and consider how these AI assistants are shaping our work. Together, we'll sort the Double Deckers from the Fudges... metaphorically speaking, of course. Don't miss this engaging session. Join us at ONE Tech Hub for the last session of 2024!
 
-    ```shell
-    python -m http.server
-    ```
+## Running
 
-    This will serve the page on http://localhost:8000 by default.
+If you want to view these slides in the browser, install [python](https://wiki.python.org/moin/BeginnersGuide/Download) and then run the following:
 
-3. Change the contents of the [slides.md](./slides.md) file as required.
+```shell
+python -m http.server
+```
 
-## Adjusting light/dark mode
+Alternatively, any other simple web server of your choice should work. For example, [http-server](https://www.npmjs.com/package/http-server) for NodeJS, which can be run like this...
 
-The template will automatically switch between light and dark mode based on the browser settings. To force one or the other mode, either change the browser setting or comment out the lines that bring in the slide theme and/or code theme.
+```shell
+npx http-server .
+```
