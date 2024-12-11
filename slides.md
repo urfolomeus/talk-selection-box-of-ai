@@ -65,10 +65,10 @@ Again, these are popping up like mushrooms these days. Here's one called Udio th
 ## Some tools - research and idea generation
 
 <ul>
-    <li class="fragment fade-in">
+    <li>
         <a href="https://perplexity.ai" target="blank">Perplexity</a>
     </li>
-    <li class="fragment fade-in">
+    <li>
         <a href="https://claude.ai" target="blank">Claude</a>
     </li>
 </ul>
@@ -78,16 +78,20 @@ Again, these are popping up like mushrooms these days. Here's one called Udio th
 ## Some tools - coding
 
 <ul>
-    <li class="fragment fade-in">
+    <li>
         <a href="https://www.cursor.com/" target="blank">Cursor</a>
     </li>
-    <li class="fragment fade-in">
+    <li>
         <a href="https://codeium.com/windsurf" target="blank">Windsurf</a>
     </li>
-    <li class="fragment fade-in">
+    <li>
         <a href="https://replit.com/~" target="blank">Replit</a>
     </li>
 </ul>
+
+---
+
+## Speaking of tools...
 
 ---
 
@@ -107,13 +111,10 @@ Let's try that again 😅
 
 <img src="./assets/images/pie_chart_2.svg" class="fragment fade-in" />
 
----
-
-## Speaking of tools...
 
 ---
 
-## Do you wanna build ~a snowman ⛄~ something with AI? 🤖
+## Do you wanna build ~a snowman ⛄~ something cool with AI? 🤖
 
 <ol>
     <li class="fragment fade-in">Make AI build something cool!</li>
